@@ -1,0 +1,1 @@
+g++ Ysetting.cpp -o l.exe -lole32 -luuid
